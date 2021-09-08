@@ -13,9 +13,6 @@ Thumbs.db
 # Node
 node_modules
 
-# Storybook
-.storybook
-
 # Log files
 *.log
 
